@@ -4,48 +4,42 @@
     <string-array name="item_list">
         <item>Select an item</item>
 
-        <item>19 OD 8 KG</item>
-        <item>19 OD 9 KG</item>
-        <item>19 OD 10 KG</item>
-        <item>19 OD 12 KG</item>
-        <item>19 OD 16 KG</item>
-        <item>19 OD 19 KG</item>
-        <item>15 X 15 2 KG</item>
-        <item>15 X 15 3 KG</item>
-        <item>15 X 15 4 KG</item>
-        <item>25 OD 3 KG</item>
-        <item>25 OD 17/18 KG</item>
-        <item>25 OD 4 KG</item>
-        <item>25OD 5 and 6 KG</item>
-        <item>25 OD 7 KG</item>
-        <item>3/4 X 3/4 3 KG</item>
-        <item>3/4 X 3/4 4 KG</item>
-        <item>3/4 X 3/4 5 KG</item>
-        <item>3/4 X 3/4 7 KG</item>
-        <item>CAPSUL 4KG</item>
-        <item>CAPSUL 5 KG</item>
-        <item>25 X 12 4 KG</item>
-        <item>25 X 12 5 KG</item>
-        <item>31 OD 3 KG</item>
+        <item>19 OD 2KG</item>
+        <item>19 OD 3KG</item>
+        <item>19 OD 4KG</item>
+        <item>15X15 2KG</item>
+        <item>15X15 3KG</item>
+        <item>15X15 4KG</item>
+        <item>25 OD 3KG</item>
+        <item>25 OD 17/18KG</item>
+        <item>25 OD 4KG</item>
+        <item>25 OD 5KG/6KG</item>
+        <item>25 OD 7KG</item>
+        <item>3/4X3/4 3KG</item>
+        <item>3/4X3/4 4KG</item>
+        <item>3/4X3/4 5KG</item>
+        <item>3/4X3/4 7KG</item>
+        <item>CAPSULE 5KG</item>
+        <item>25X12 5KG</item>
+        <item>31 OD 3KG</item>
         <item>31 OD 4KG</item>
         <item>31 OD 5KG</item>
         <item>31 OD 6KG</item>
         <item>31 OD 7KG</item>
         <item>31 OD 8KG</item>
-        <item>1 X 1 3 KG</item>
-        <item>1 X 1 4 KG</item>
-        <item>1 X 1 5KG</item>
-        <item>1 X 1 6KG</item>
-        <item>1 X 1 7KG</item>
-        <item>1 X 1 8KG</item>
-        <item>1 x 1 10KG</item>
+        <item>1X1 3 KG</item>
+        <item>1X1 4 KG</item>
+        <item>1X1 5KG</item>
+        <item>1X1 6KG</item>
+        <item>1X1 7KG</item>
+        <item>1X1 8KG</item>
+        <item>1X1 10KG</item>
         <item>37 OD 4KG</item>
         <item>37 OD 5KG</item>
         <item>37 OD 6KG</item>
         <item>37 OD 7KG</item>
         <item>37 OD 8KG</item>
         <item>37 OD 9KG</item>
-        <item>40X20 4KG</item>
         <item>40X20 7KG</item>
         <item>40X20 9KG</item>
         <item>40X20 12KG</item>
@@ -65,15 +59,14 @@
         <item>30X30 7KG</item>
         <item>30X30 9KG</item>
         <item>30X30 12KG</item>
-        <item>30X30 14/17/18KG</item>
         <item>50X15 7KG</item>
         <item>50X15 9KG</item>
-        <item>48OD 6KG</item>
-        <item>48OD 7KG</item>
-        <item>48OD 9KG</item>
-        <item>48OD 12KG</item>
-        <item>48OD 14KG</item>
-        <item>48OD 20KG</item>
+        <item>48 OD 6KG</item>
+        <item>48 OD 7KG</item>
+        <item>48 OD 9KG</item>
+        <item>48 OD 12KG</item>
+        <item>48 OD 14KG</item>
+        <item>48 OD 20KG</item>
         <item>D 9KG</item>
         <item>D 12KG</item>
         <item>38X38 6KG</item>
@@ -83,31 +76,28 @@
         <item>38X38 14KG</item>
         <item>38X38 17KG</item>
         <item>38X38 20KG</item>
-        <item>2 X 1 6KG</item>
-        <item>2 X 1 7KG</item>
-        <item>2 X 1 9KG</item>
-        <item>2 X 1 12KG</item>
-        <item>2 X 1 14KG</item>
-        <item>2 X 1 18/20KG</item>
-        <item>2 X 2 12KG</item>
-        <item>2 X 2 15KG</item>
-        <item>2 X 2 17KG</item>
-        <item>2 X 2 20KG</item>
-        <item>2 X 2 23KG</item>
-        <item>3 X 1 12KG</item>
-        <item>3 X 1 15KG</item>
-        <item>3 X 1 17KG</item>
-        <item>3 X 1 20KG</item>
-        <item>60 X 40 12KG</item>
-        <item>60 X 40 15KG</item>
-        <item>60 X 40 17KG</item>
-        <item>60 X 40 20KG</item>
-        <item>60 X 40 23KG</item>
-        <item>62 X 32 12KG</item>
-        <item>62 X 32 15KG</item>
-        <item>62 X 32 17KG</item>
-        <item>62 X 32 20KG</item>
-        <item>62 X 32 23KG</item>
+        <item>2X1 6KG</item>
+        <item>2X1 7KG</item>
+        <item>2X1 9KG</item>
+        <item>2X1 12KG</item>
+        <item>2X1 14KG</item>
+        <item>2X1 18/20KG</item>
+        <item>2X2 12KG</item>
+        <item>2X2 15KG</item>
+        <item>2X2 17KG</item>
+        <item>2X2 20KG</item>
+        <item>2X2 23KG</item>
+        <item>3X1 12KG</item>
+        <item>3X1 15KG</item>
+        <item>3X1 17KG</item>
+        <item>60X40 15KG</item>
+        <item>60X40 17KG</item>
+        <item>60X40 20KG</item>
+        <item>60X40 23KG</item>
+        <item>62X32 12KG</item>
+        <item>62X32 15KG</item>
+        <item>62X32 17KG</item>
+        <item>62X32 20KG</item>
         <item>RT 12KG</item>
         <item>RT 14KG</item>
         <item>58 OD 12KG</item>
@@ -116,7 +106,7 @@
         <item>58 OD 20KG</item>
         <item>58 OD 23KG</item>
         <item>76 OD 20KG</item>
-        <item>75OD 17KG</item>
+        <item>75 OD 17KG</item>
         <item>2.5X2.5 17KG</item>
         <item>2.5X2.5 20KG</item>
         <item>4X1 17KG</item>
@@ -126,46 +116,104 @@
         <item>3X1.5 24KG</item>
         <item>3X3 25Kg</item>
         <item>4X2 24KG</item>
-        <item>88od 24</item>
-        <item>12X12</item>
-        <item>16X16</item>
-        <item>20X20</item>
-        <item>25X25</item>
-        <item>32X32</item>
-        <item>40X40</item>
-        <item>50X50</item>
-        <item>60X60</item>
-        <item>72X72</item>
-        <item>80X80</item>
-        <item>100X100</item>
-        <item>132x132</item>
-        <item>150x150</item>
-        <item>200x200</item>
-        <item>25x13</item>
-        <item>40x20</item>
-        <item>40x10</item>
-        <item>40x25</item>
-        <item>50x15</item>
-        <item>50x25</item>
-        <item>2.5x1.25</item>
-        <item>3x1</item>
-        <item>4x1</item>
-        <item>6x2</item>
-        <item>10x1</item>
-        <item>6x3</item>
-        <item>1x1</item>
-        <item>2x2</item>
-        <item>3x3</item>
-        <item>4x4</item>
-        <item>5x5</item>
-        <item>6x6</item>
-        <item>7x7</item>
-        <item>8x8</item>
-        <item>9x9</item>
-        <item>capsule</item>
-        <item>96x48</item>
-        <item>100x50</item>
-        <item>3x1.5</item>
+        <item>88 OD 24</item>
+        <item>25 OD</item>
+        <item>48 OD</item>
+        <item>58 OD</item>
+        <item>75 OD</item>
+        <item>88 OD</item>
+        <item>110 OD</item>
+        <item>132 OD</item>
+        <item>150 OD</item>
+        <item>200 OD</item>
+        <item>12X12MM</item>
+        <item>16X16MM</item>
+        <item>20X20MM</item>
+        <item>25X25MM</item>
+        <item>32X32MM</item>
+        <item>40X40MM</item>
+        <item>50X50MM</item>
+        <item>60X60MM</item>
+        <item>72X72MM</item>
+        <item>80X80MM</item>
+        <item>100X100MM</item>
+        <item>132X132MM</item>
+        <item>150X150MM</item>
+        <item>200X200MM</item>
+        <item>25X13MM</item>
+        <item>40X20MM</item>
+        <item>40X10MM</item>
+        <item>40X25MM</item>
+        <item>50X15MM</item>
+        <item>50X25MM</item>
+        <item>2.5X1.25MM</item>
+        <item>3X1</item>
+        <item>4X1</item>
+        <item>6X2</item>
+        <item>10X1</item>
+        <item>6X3</item>
+        <item>1X1</item>
+        <item>2X2</item>
+        <item>3X3</item>
+        <item>4X4</item>
+        <item>5X5</item>
+        <item>6X6</item>
+        <item>7X7</item>
+        <item>8X8</item>
+        <item>9X9</item>
+        <item>CAPSULE</item>
+        <item>96X48</item>
+        <item>100X50</item>
+        <item>3X1.5</item>
+        <item>APL 12MM </item>
+        <item>APL 15MM</item>
+        <item>APL 20X20MM</item>
+        <item>APL 26X13</item>
+        <item>APL 50X15</item>
+        <item>APL 40X10</item>
+        <item>APL 95X25</item>
+        <item>APL 25X25</item>
+        <item>APL 32X32</item>
+        <item>APL 40X40</item>
+        <item>APL 50X50</item>
+        <item>APL 72X72</item>
+        <item>APL 80X80</item>
+        <item>APL 100X100</item>
+        <item>APL 40X20</item>
+        <item>APL 40X25</item>
+        <item>APL 80X40</item>
+        <item>APL 50X25</item>
+        <item>APL 60X40</item>
+        <item>APL 75X25</item>
+        <item>APL 96X48</item>
+        <item>APL 100X50</item>
+        <item>APL 113X113</item>
+        <item>APL 145X82</item>
+        <item>APL 172X92</item>
+        <item>APL 122X61</item>
+        <item>APL 132X132</item>
+        <item>APL 200X100</item>
+        <item>APL 180X180</item>
+        <item>APL 240X120</item>
+        <item>APL 200X150</item>
+        <item>APL 250X150</item>
+        <item>APL 300X150</item>
+        <item>APL 200X200</item>
+        <item>APL 300X200</item>
+        <item>APL 400X200</item>
+        <item>APL 150X150</item>
+        <item>APL 300X300</item>
+        <item>APL 220X220</item>
+        <item>APL 250X250</item>
+        <item>APL 305X305</item>
+        <item>APL 500X500</item>
+        <item>APL 150X100</item>
+        <item>APL 150X50</item>
+        <item>APL 130X50</item>
+        <item>APL 133X133</item>
+        <item>APL 125X125</item>
+        <item>APL 120X120</item>
+        <item>APL 160X80</item>
 
     </string-array>
 
