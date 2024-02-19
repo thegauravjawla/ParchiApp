@@ -722,7 +722,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
             file.mkdirs();
         }
 
-        String dateFileName = new SimpleDateFormat("dd-MM-yyyy_hh:mm:ssaa", Locale.getDefault()).format(System.currentTimeMillis());
+        String dateFileName = new SimpleDateFormat("dd-MM-yyyy_hh:mm:ssaa", Locale.getDefault()).format(System.currentTimeMillis()).replaceAll(":", ".");
         String targetPdf = directory_path + dateFileName + "_" + (name.getText().toString().split(" "))[0] + "_Rs" + format.total(amountTotalValue+cartageValue) + ".pdf";
 
 //        String targetPdf = directory_path + "parchi.pdf";
@@ -740,6 +740,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         } catch (IOException e) {
             e.printStackTrace();
             Log.e("main", "error "+ e.toString());
+            Toast.makeText(getApplicationContext(),"error "+ e.toString(), Toast.LENGTH_LONG).show();
         }
 
         mPdfDocument.close();
